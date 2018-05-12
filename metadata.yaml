@@ -1,0 +1,49 @@
+_repo: The-Chief-JusticeA-Novel_36854
+_version: 0.1.0
+alternative_title: Der Präsident. English
+contributor:
+  translator:
+    agent_name: Corbet, Miles
+    gutenberg_agent_id: '38509'
+    url: http://www.gutenberg.org/2009/agents/38509
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franzos, Karl Emil
+    aliases:
+    - Franzos, Emil
+    - Franzos, K. E. (Karl Emil)
+    birthdate: 1848
+    deathdate: 1904
+    gutenberg_agent_id: '37123'
+    url: http://www.gutenberg.org/2009/agents/37123
+  editor:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund W. (Edmund William)
+    - Gosse, Edmund William, Sir
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: ''
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Judges -- Fiction'
+- !lcsh 'Austria -- Fiction'
+- !lcsh 'Trials (Murder) -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcc 'PT'
+title: 'The Chief Justice: A Novel'
+url: http://www.gutenberg.org/ebooks/36854
